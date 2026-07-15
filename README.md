@@ -32,4 +32,5 @@
 <p align="center">
   <img src="https://github.com/Fakihamalik1/Fakihamalik1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
 📄 Resume: [View Resume](https://github.com/Fakihamalik1/Fakihamalik1/blob/main/CV_Fakiha.pdf)
